@@ -7,4 +7,4 @@ LCD Backpack was an assignment that made an LCD screen light up and say "button 
 
 The Photointerrupter was an assignment that created a circuit that turned on an LED when a piece of paper went in between the legs of it. In this assignment I learned how to use a photointerrupter. This assignment was pretty easy and simple for me. Next time I would get help on my code so that I can move onto the next assignment faster.
 
-
+LED Blink Revisited was an assignment created to re-introduce LED's and Arduinos. I didn't learn anything in this assignment because I was taught how to wire an LED to an Arduino last year. This assignment was reallyy easy for me. I would not do anything different next time. 
